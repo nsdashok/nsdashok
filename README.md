@@ -15,16 +15,3 @@ Here are some ideas to get you started:
     Skills
         Data analysis | Machine learning | Data visualization | Natural language processing | Big data technologies | Programming languages (Python, SQL) | Data 
         manipulation| Experimental design| Tableau | Power BI | Anaplan | Jira Tool |
-​[![Ashok's GitHub stats](https://github-readme-stats.vercel.ap...)](https://github.com/nsdashok/github-r...)
-
-
-
-
-
-​[<img src='https://cdn.jsdelivr.net/npm/simple-i... alt='github' height='40'>](https://github.com/nsdashok) [<img src='https://cdn.jsdelivr.net/npm/simple-i...
-
-
-​'40'>](https://www.instagram.com/priyabhatia...) [<img src='https://cdn.jsdelivr.net/npm/simple-i... alt='youtube' height='40'>](https://www.youtube.com/@nsdashok)
-
-
-​linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nsdashok...) [<img src='https://cdn.jsdelivr.net/npm/simple-i... alt='instagram' height=
