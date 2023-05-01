@@ -11,7 +11,7 @@ Here are some ideas to get you started:
  💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday  
     living.
  
- ⚡ Fun fact: ...
+
     Skills
         Data analysis | Machine learning | Data visualization | Natural language processing | Big data technologies | Programming languages (Python, SQL) | Data 
         manipulation| Experimental design| Tableau | Power BI | Anaplan | Jira Tool |
