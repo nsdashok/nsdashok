@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
- 🔭 I am an experienced Data Scientist with expertise in data analysis, machine learning, and data visualization. Currently, I am working as a Data Scientist at              Click2Pro LLC, where I am responsible for building predictive models, performing data analysis, and communicating insights to stakeholders.
+ 🔭 Working as a senior data analyst with expertise in data analysis, machine learning, and data visualization. Currently, I am working as a Data Scientist at Click2Pro LLC, where I am responsible for building predictive models, performing data analysis, and communicating insights to stakeholders.
  🌱 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing.
  👯 I am currently looking for new opportunities as a Data Scientist and am open to new challenges and learning experiences. If you are interested in learning more about     my skills and experience, please don't hesitate to contact me.
  🤔 Looking for opportunities to contribute to open-source projects. my Email ID: nsdashok@gmail.com # 9905472860
