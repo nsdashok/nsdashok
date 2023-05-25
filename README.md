@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
- 🔭 Working as a senior data analyst with expertise in data analysis, machine learning, and data visualization. Currently, I am working as a Data Scientist at Click2Pro LLC, where I am responsible for building predictive models, performing data analysis, and communicating insights to stakeholders.
+ 🔭 Working as a senior data analyst with Click2Pro, Currently my job to preprocess the Data with basic Filters and method applied, including Top Cities, Year of Model, which model will get the popularity in which city, and types of car, types of royality, types of speed types of color and many more analysis regarding resale of the car where i am responsible for building predictive models, performing data analysis, and communicating insights to stakeholders
  🌱 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing.
  👯 I am currently looking for new opportunities as a Data Scientist and am open to new challenges and learning experiences. If you are interested in learning more about     my skills and experience, please don't hesitate to contact me.
  🤔 Looking for opportunities to contribute to open-source projects. my Email ID: nsdashok@gmail.com # 9905472860
